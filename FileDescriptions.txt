@@ -1,0 +1,6 @@
+Files:
+
+MNIST_Final.ipynb - notebook that created results/visualizations
+pop_model-12.h5 - best performing genetically optimized model
+model-l10-e12-b64-asoftmax-oadam-k432.h5 - best hand optimized model
+GeneticAlgorithmForOptimizingCNN.docx - research paper
